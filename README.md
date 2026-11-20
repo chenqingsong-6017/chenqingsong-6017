@@ -1,4 +1,4 @@
-# Cedar Chen
+# xxx
 
 **一个人的 DeepSeek Harness 体系**：一个人 + 一个 agent 团队，用「工作区分权 + 插件补能力 + 能红的检查」把日常工程做成可验证的系统。
 
